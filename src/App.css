@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    text-align: center;
+}
+ 
+.container {
+    margin-bottom: 5rem;
+}
+
+.input {
+    border: 1px solid #333;
+    border-radius: .3em;
+    padding: .25rem;
+    width: 9em;
+    margin-right: .5rem;
+}
+
+.equals {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 1rem;
+}
